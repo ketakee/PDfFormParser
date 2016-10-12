@@ -1,2 +1,2 @@
 # PDfFormParser
-This is a way to pars epdf forms
+This is a way to parse pdf forms
