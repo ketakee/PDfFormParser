@@ -22,22 +22,5 @@ def formParse(fileobj,parameters,listoflength):
                     c-=1
 
                     
-formParse('C:\\Users\\Ketakee Nimavat\\Documents\\form.txt',["NAME","ROLL NO",],[2,1])
-        
-
-
-
-
-
-
-
-
-# l+=[a.find(i),]  
-        
-#   l+=[len(a)-1]
-#  print(l)
-    
-#    for i in range(len(l)-1):
-#       s=a[l[i]:l[i+1]]
-#        print(s)
+formParse('C:\\Documents\\form.txt',["NAME","ROLL NO",],[2,1])
         
