@@ -1,2 +1,3 @@
-# PDfFormParser
-This is a way to parse pdf forms
+# PDF_Form_Parser
+Parses PDF forms using python.
+input: PDF link, Names of parameters to be parsed and an optional argument.
